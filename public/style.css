@@ -1,0 +1,51 @@
+#center {
+  width: 400px; 
+  margin: 100px; 
+}
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #222;
+}
+
+.container {
+  width: 300px;
+  border: 15px solid grey;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 20px;
+  margin-left: 37%;
+}
+
+.footer {
+  font-size: 18px;
+  width: 300px;
+  border: 15px solid grey;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 10px;
+  margin-left: 37%;
+}
+
+a {
+  color: #2574A9;
+}
+
+input {
+  display: block;
+  position: relative;
+  margin: 10px auto;
+}
+
+input#button {
+  width: 230px;
+}
+
+.view {
+  border: 1px  solid  #aaa;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin: 10px;
+}
